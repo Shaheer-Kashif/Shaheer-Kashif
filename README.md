@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I am a hobbyist Python programmer in the process of learning. Professional services I help people with include thumbnail design and video editing.<br><br>- 🔭 College Student<br>- 📚 I'm currently learning Python and Graphic Design<br>- ⚡ In my free time, I play Video Games :)</p>
+<p align="left">I am a hobbyist Python programmer in the process of learning new things about this language. Professional services I help people with include thumbnail design and video editing.<br><br>- 🔭 College Student<br>- 📚 I'm currently learning Python and Graphic Design<br>- ⚡ In my free time, I play Video Games :)</p>
 
 ###
 
