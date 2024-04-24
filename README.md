@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am a Python and Web Programmer in the process of learning new things about programming.I am currently learning Django,HTML and CSS.<br><br>- 🔭 College Student<br>- 📚 I'm currently learning Python and Graphic Design<br>- ⚡ In my free time, I play Video Games :)</p>
+<p align="left">I am a Python and Web Programmer in the process of learning new things about programming.<br><br>- 🔭 College Student<br>- 📚 I am currently learning Django,HTML and CSS.<br>- ⚡ In my free time, I play Video Games :)</p>
 
 ###
 
