@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am a hobbyist Python programmer in the process of learning new things about this language.I am currently learning Django.<br><br>- 🔭 College Student<br>- 📚 I'm currently learning Python and Graphic Design<br>- ⚡ In my free time, I play Video Games :)</p>
+<p align="left">I am a Python and Web Programmer in the process of learning new things about programming.I am currently learning Django,HTML and CSS.<br><br>- 🔭 College Student<br>- 📚 I'm currently learning Python and Graphic Design<br>- ⚡ In my free time, I play Video Games :)</p>
 
 ###
 
@@ -41,6 +41,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
@@ -48,6 +50,8 @@
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+
+  
 </div>
 
 ###
