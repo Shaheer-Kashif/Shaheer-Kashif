@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://discord.gg/96Uc2k3F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Join%20our%20community!&color=7289DA&logoColor=white&labelColor=#5865F2&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
 ###
 
 <div align="center">
