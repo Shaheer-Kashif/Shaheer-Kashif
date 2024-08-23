@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I am a Python and Web Programmer in the process of learning new things about programming.<br><br>- 🔭 College Student<br>- 📚 I am currently learning Backend and Frontend Web Development..<br>- ⚡ In my free time, I play Video Games :)</p>
+<p align="left">Former Python and Web Programmer in the process of learning new things.<br><br>- 🔭 College Student<br>- 📚 I am currently learning design and youtube.<br>- ⚡ In my free time, I play Video Games :)</p>
 
 ###
 
