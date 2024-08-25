@@ -54,7 +54,9 @@
 
 ###
 <h3 align="left">✅   Certfications :</h3>
-<img src="Coursera YYL8D8EGJKVL.jpg">
+<img src="Coursera YYL8D8EGJKVL.jpg" width="500">
+<img src="Python-Certificate.jpg" width="500">
+
 
 
 <h3 align="left">🔥   My Stats :</h3>
