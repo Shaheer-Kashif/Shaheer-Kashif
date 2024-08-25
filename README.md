@@ -54,7 +54,7 @@
 
 ###
 <h3 align="left">✅   Certfications :</h3>
-[Coursera YYL8D8EGJKVL.pdf](https://github.com/user-attachments/files/16739674/Coursera.YYL8D8EGJKVL.pdf)
+![Coursera YYL8D8EGJKVL.pdf](https://github.com/user-attachments/files/16739674/Coursera.YYL8D8EGJKVL.pdf)
 
 
 <h3 align="left">🔥   My Stats :</h3>
