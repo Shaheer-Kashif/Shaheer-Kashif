@@ -54,7 +54,7 @@
 
 ###
 <h3 align="left">✅   Certfications :</h3>
-<embed src="Coursera YYL8D8EGJKVL.pdf"/>
+<embed src="Coursera YYL8D8EGJKVL.pdf" width="500"/>
 
 
 <h3 align="left">🔥   My Stats :</h3>
