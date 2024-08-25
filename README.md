@@ -55,7 +55,7 @@
 ###
 <h3 align="left">✅   Certfications :</h3>
 <div align="left">
-  <iframe src="https://www.coursera.org/api/certificate.v1/pdf/YYL8D8EGJKVL" style="width: 100%;height: 100%;border: none;"></iframe>
+  <embed src="https://www.coursera.org/api/certificate.v1/pdf/YYL8D8EGJKVL" width="800px" height="2100px" />
 </div>
 
 
