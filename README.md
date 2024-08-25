@@ -54,7 +54,7 @@
 
 ###
 <h3 align="left">✅   Certfications :</h3>
-<embed src="https://www.coursera.org/api/certificate.v1/pdf/YYL8D8EGJKVL" width="500" height="500"/>
+<iframe src="https://www.coursera.org/api/certificate.v1/pdf/YYL8D8EGJKVL" style="width: 100%;height: 100%;border: none;"></iframe>
 
 
 <h3 align="left">🔥   My Stats :</h3>
